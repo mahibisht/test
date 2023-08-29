@@ -1,0 +1,11 @@
+C:\Users\Mahi\Desktop\test\pub\test.exe
+C:\Users\Mahi\Desktop\test\pub\appsettings.Development.json
+C:\Users\Mahi\Desktop\test\pub\appsettings.json
+C:\Users\Mahi\Desktop\test\pub\test.dll
+C:\Users\Mahi\Desktop\test\pub\test.deps.json
+C:\Users\Mahi\Desktop\test\pub\test.runtimeconfig.json
+C:\Users\Mahi\Desktop\test\pub\test.pdb
+C:\Users\Mahi\Desktop\test\pub\Microsoft.OpenApi.dll
+C:\Users\Mahi\Desktop\test\pub\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahi\Desktop\test\pub\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahi\Desktop\test\pub\Swashbuckle.AspNetCore.SwaggerUI.dll
